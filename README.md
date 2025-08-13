@@ -1,4 +1,10 @@
 # EzzyLinux
+![Static Badge](https://img.shields.io/badge/Version-v1.0.0-8a2be2?style=for-the-badge&logo=linux&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Supports-Debian-red?style=for-the-badge&logo=debian&logoColor=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/ezzyplanet493/ezzylinux?style=for-the-badge&logo=github&logoColor=ffffff)
+![GitHub contributors](https://img.shields.io/github/contributors/ezzyplanet493/ezzylinux?style=for-the-badge&logo=cloudinary&logoColor=ffffff&color=orange)
+![GitHub License](https://img.shields.io/github/license/ezzyplanet493/ezzylinux?style=for-the-badge&logo=cloudera&logoColor=ffffff)
+
 A cool Linux distro
 
 ## Installation
