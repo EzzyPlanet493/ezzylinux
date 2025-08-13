@@ -23,3 +23,4 @@ echo Welcome to EzzyLinux! && echo Press enter to Install. && echo Press Ctrl+C 
 - XOrg
 - sddm
 - Dolphin File Manager
+- gedit
